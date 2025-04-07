@@ -1,3 +1,4 @@
+# GRUPO 9
 # Aluno:
 Vinicius De Souza Lima Ferreira
 # RA:
@@ -49,4 +50,4 @@ A área de cadastro de usuários seguiu com a cor de azul, porém um pouco mais 
 # Conclusão: percepções e desafios individuais
 - Como já venho do ramo minha maior dificuldade foi conciliar as ideias com meus companheiro de grupo, onde muitos não conheciam ou tinham um conhecimento breve sobre o assunto e as ferramentas utilizadas para o projeto.
 - Ferramentas: utilizamos a ferramenta CLICKUP uma recomendação miha pois ja a utilizo profissionalmente para organizar nosso projeto, para mim foi muito simples me acostumar com a utilização das novas ferramentas e esta que já utilizava
--  Minha Auto-avaliação
+-  **Minha Auto-avaliação:** Embora não tenha uma posição de liderança no grupo, pude desempenhar uma pequena influencia em meu companheiros de grupo por já atuar na area comercial de uma empresa e conhecer muitas das ferramentas que utilizamos, não tive problemas em me comunicar e interagir com os companheiros de grupo, minha maior dificuldade foi consiliar as ideias de todos nas horas de desemvolvermos uma ação do zero.  
